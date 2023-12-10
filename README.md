@@ -26,7 +26,7 @@ Before taking these classes, students should have a basic understanding of the f
 
 To set up the environment for these classes, you can follow these steps:
 
-1. Install [Python] on your system if you haven't already( or use google colab). You can download Python from the official website: (https://www.python.org/downloads/)
+1. Install [Python] (https://www.python.org/downloads/) on your system if you haven't already( or use google colab). You can download Python from the official website
 
 
 2. Install the required Python libraries. You can do this by running the following command in your terminal:
