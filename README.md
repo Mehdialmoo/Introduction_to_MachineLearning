@@ -1,3 +1,5 @@
+![](ML.jpg)
+
 # Machine Learning Classes
 
 This repository contains machine learning classes designed to provide students with hands-on experience in various machine learning algorithms. The classes are divided into categories based on their complexity and are suitable for students of all levels.
